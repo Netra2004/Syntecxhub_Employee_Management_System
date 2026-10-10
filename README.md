@@ -375,22 +375,6 @@ This project demonstrates practical implementation of:
 - Responsive web design
 
 
-📸 Screenshots
-Login Page
-<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/b1c330f1-6bca-4de0-8939-741236ea6197" />
-<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/c110a474-c675-420c-bbb8-a1ec9b8e5478" />
-
-Dashboard
-<img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/d09a98b7-10f0-4012-b2d2-dd032e17a20b" />
-<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/d155c225-ff03-4681-bb66-6cac33d3d3a2" />
-
-Employee Management
-<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/3d7372ec-8aa4-4f36-b2da-49fd59e7a5c0" />
-
-Add / Edit Employee
-<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/d5591983-26a9-4e88-a837-b91bddba2cb5" />
-
-
 🚀 Future Enhancements
 The project can be extended with:
 - Employee profile photos
